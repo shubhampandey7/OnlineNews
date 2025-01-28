@@ -1,4 +1,4 @@
-<p><a href="https://youtu.be/q-ff0FB6XUA"><h1>Demo Video</h1></a></p>
+<p><a href="https://youtu.be/q-ff0FB6XUA">Demo Video</a></p>
 Fullstack Webapp developed by using java,thymeleaf,srpingboot,hibernate,sts,hibernate and mysql where any one can read news categorically like politics,sports,international,entertainment and admin can perform CRUD operation of each news using apis.
 
 
